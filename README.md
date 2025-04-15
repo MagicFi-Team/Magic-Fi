@@ -1,12 +1,12 @@
-# Template for Orderly SDK v2 based on Next.js
+# Template for Magic Fi v1 based on Next.js
 
 ## Getting started
 
 1. Clone the code:
 
 ```
-git clone https://github.com/OrderlyNetwork/orderly-js-sdk-nextjs-template.git
-cd orderly-js-sdk-nextjs-template
+git clone https://github.com/MagicFi-Team/magic_fi.git
+cd magic_fi
 ```
 
 2. Install the dependencies
@@ -30,7 +30,7 @@ npm run build
 5. Create docker image
 
 ```
-docker build -t orderly-js-sdk-nextjs-template .
+docker build -t magic_fi .
 ```
 
 ## Docs
